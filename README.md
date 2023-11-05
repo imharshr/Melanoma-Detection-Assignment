@@ -8,7 +8,7 @@
     * [Problem Statement](#problem-statement)
 * [Libraries Used](#libraries-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 
 ## General Information
